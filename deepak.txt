@@ -9,5 +9,7 @@ git config --global user.name "Your Name"
 
 
 git status  
+ git branch newBranch   -> create new branch 
+ git checkout newBranch  -> Switched to branch
 git restore --staged  deepak.txt  -> to remove last changed added 
 git log -> to see the histry of commits
