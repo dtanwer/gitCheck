@@ -13,3 +13,10 @@ git status
  git checkout newBranch  -> Switched to branch
 git restore --staged  deepak.txt  -> to remove last changed added 
 git log -> to see the histry of commits
+
+git stash -> to save local change without commits
+git stash pop -> to get all save changes which are stash
+git rebase HEAD~3  -> to combine commits commits
+
+
+
