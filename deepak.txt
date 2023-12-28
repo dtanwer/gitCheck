@@ -18,5 +18,7 @@ git stash -> to save local change without commits
 git stash pop -> to get all save changes which are stash
 git rebase HEAD~3  -> to combine commits commits
 
+git rebase --abort -> to reset rebase
+
 
 
